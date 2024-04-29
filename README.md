@@ -5,4 +5,4 @@ This project is about predicting rainfall based on some parameters like Temperat
 
 # Demo / Implementation
 
-- ▶️ [Demo | Raindfall Prediction](https://youtu.be/uX9tTAcVbZM?si=uZasa3iUwbHxiJF4) 
+- ▶️ [Demo | Rainfall Prediction](https://youtu.be/uX9tTAcVbZM?si=uZasa3iUwbHxiJF4) 
